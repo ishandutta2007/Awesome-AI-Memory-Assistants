@@ -81,8 +81,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom assistants**: Combine **screenpipe**, **OpenRecall**, **Letta**, and **LangGraph** with **Ollama** and vector databases to create fully private, powerful AI memory systems.
 
-**Frameworks for building custom assistants**: Combine **screenpipe**, **OpenRecall**, **Letta**, and **LangGraph** with **Ollama** and vector databases to create fully private, powerful AI memory systems.
-
 ## How to Contribute
 
 1. Fork the repo.
