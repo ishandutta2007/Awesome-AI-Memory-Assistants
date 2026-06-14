@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🧠 Awesome AI Memory Assistants 🚀
+ <img src="assets/banner.svg" alt="ProductHunt Hunter Banner" width="800">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,10 +9,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Assistants?style=social&color=white)](https://github.com/ishandutta2007/Awesome-AI-Memory-Assistants/stargazers)
 
 **A curated ecosystem of SaaS products and Open-Source projects building the future of Personal Memory & AI Recall.**
-
----
-
-![Banner](assets/banner.svg)
 
 ---
 
