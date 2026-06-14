@@ -37,46 +37,49 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-### Dedicated AI Memory Assistant Projects
+### Top AI Memory Assistant & Infrastructure Projects
 
-- **[screenpipe](https://github.com/mediar-ai/screenpipe)**  
-  Open-source personal memory assistant that continuously records screen, audio, and system activity for local AI-powered search and recall.
-
-- **[OpenRecall](https://github.com/openrecall/openrecall)**  
-  Fully open-source alternative to Microsoft Recall with local processing, screen capture, and semantic search using local LLMs.
-
-- **[Memex](https://github.com/search?q=memex+ai+memory)**  
-  Open-source personal knowledge and memory management tools with AI integration for long-term recall.
-
-- **[Rewind Open Alternatives](https://github.com/search?q=rewind+ai+open+source)**  
-  Community-driven self-hosted memory capture and retrieval systems with local LLM support.
-
-- **[Limitless Open Implementations](https://github.com/search?q=limitless+ai+open+source)**  
-  Open-source projects replicating wearable + desktop memory capture and intelligent search.
-
-- **[Otter.ai Style Transcription Tools](https://github.com/search?q=open+source+meeting+transcription)**  
-  Multiple open-source transcription, summarization, and memory projects using Whisper and local models.
-
-- **[LangGraph Memory Agents](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for building persistent personal memory assistants with long-term recall.
-
-- **[Letta (MemGPT)](https://github.com/letta-ai/letta)**  
-  Advanced memory management system that gives AI agents infinite context and autonomous recall capabilities.
-
-- **[Phidata Memory Assistants](https://github.com/phidatahq/phidata)**  
-  Framework for building production-grade memory agents with knowledge bases and tools.
-
-- **[OpenWebUI + Memory Extensions](https://github.com/open-webui/open-webui)**  
+- **[OpenWebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
   Local LLM interface with strong support for building personal memory and recall assistants.
 
-### Additional Strong Open-Source Options
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+  Open-source Notion alternative with AI memory extensions.
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Open-source Notion alternative with AI memory extensions.
-- **[Logseq](https://github.com/logseq/logseq)** — Outliner-based knowledge base with excellent AI memory plugin support.
-- **[Anytype](https://github.com/anytypeio/anytype)** — Local-first personal knowledge and memory system.
-- **[Mem0](https://github.com/mem0ai/mem0)** — Production memory layer for long-term AI recall.
-- **[Zep](https://github.com/getzep/zep)** — Open-source long-term memory store for conversational memory.
-- Many **Ollama + Screen Capture + Whisper** community stacks for fully local life-logging and recall systems.
+- **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
+  Production memory layer for long-term AI recall.
+
+- **[Logseq](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
+  Outliner-based knowledge base with excellent AI memory plugin support.
+
+- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** [![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)  
+  Framework for building production-grade memory agents with knowledge bases and tools.
+
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Stateful multi-agent framework for building persistent personal memory assistants.
+
+- **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
+  Advanced memory management system for infinite context and autonomous recall.
+
+- **[screenpipe](https://github.com/mediar-ai/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=social&color=white)](https://github.com/mediar-ai/screenpipe/stargazers)  
+  Continuously records screen, audio, and system activity for local AI-powered search and recall.
+
+- **[Anytype](https://github.com/anyproto/anytype-ts)** [![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)  
+  Local-first personal knowledge and memory system.
+
+- **[Zep](https://github.com/getzep/zep)** [![GitHub stars](https://img.shields.io/github/stars/getzep/zep?style=social&color=white)](https://github.com/getzep/zep/stargazers)  
+  Open-source long-term memory store for conversational memory.
+
+- **[OpenRecall](https://github.com/openrecall/openrecall)** [![GitHub stars](https://img.shields.io/github/stars/openrecall/openrecall?style=social&color=white)](https://github.com/openrecall/openrecall/stargazers)  
+  Open-source alternative to Microsoft Recall with local processing and semantic search.
+
+### Community Stacks & Search Alternatives
+
+- **[Rewind Open Alternatives](https://github.com/search?q=rewind+ai+open+source)** — Community-driven self-hosted memory capture systems.
+- **[Limitless Open Implementations](https://github.com/search?q=limitless+ai+open+source)** — Projects replicating wearable + desktop memory capture.
+- **[Otter.ai Style Transcription Tools](https://github.com/search?q=open+source+meeting+transcription)** — Transcription, summarization, and memory projects using Whisper.
+- **[Memex](https://github.com/search?q=memex+ai+memory)** — Personal knowledge and memory management tools.
+
+**Frameworks for building custom assistants**: Combine **screenpipe**, **OpenRecall**, **Letta**, and **LangGraph** with **Ollama** and vector databases to create fully private, powerful AI memory systems.
 
 **Frameworks for building custom assistants**: Combine **screenpipe**, **OpenRecall**, **Letta**, and **LangGraph** with **Ollama** and vector databases to create fully private, powerful AI memory systems.
 
