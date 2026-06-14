@@ -21,22 +21,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (AI Memory Assistants)
+### AI Memory Assistants Ecosystem
 
-| Product | Pricing | Free Tier Limit | Description |
-| :--- | :--- | :--- | :--- |
-| **[Rewind AI](https://rewind.ai/)** | $5 - $49/mo | 5,000 tokens/day | Personal memory assistant (now an AI tools platform). Original app sunset in 2025. |
-| **[Limitless](https://limitless.ai/)** | $19 - $49/mo | 20 hours/mo | Successor to Rewind; captures meetings and conversations with AI recall. |
-| **[Otter.ai](https://otter.ai/)** | $16.99 - $30/mo | 300 min/mo | Leading meeting transcription and memory assistant with strong search. |
-| **[Fabric](https://fabric.so/)** | $6 - $16/mo | 50MB file limit | AI-powered personal memory and knowledge management tool. |
-| **[Microsoft Recall](https://microsoft.com/recall)** | Included with Hardware | Free (Requires Copilot+ PC) | Windows-integrated "photographic memory" of your PC activity. |
-
-### Advanced & Specialized Platforms
-
-| Product | Pricing | Free Tier Limit | Description |
-| :--- | :--- | :--- | :--- |
-| **[Mem.ai](https://mem.ai/)** | $12/mo | 25 notes/mo | Self-organizing workspace that uses AI to connect notes and tasks. |
-| **[Reflect](https://reflect.app/)** | $10 - $15/mo | 14-day free trial | Minimalist note-taking with end-to-end encryption and AI help. |
+| Product | Company Size (Valuation/Revenue) | Pricing | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Recall](https://microsoft.com/recall)** | ~$2.9 Trillion (Mkt Cap) | Included with Hardware | Free (Requires Copilot+ PC) | Windows-integrated "photographic memory" of your PC activity. |
+| **[Otter.ai](https://otter.ai/)** | ~$1 Billion+ (Est. Valuation) | $16.99 - $30/mo | 300 min/mo | Leading meeting transcription and memory assistant with strong search. |
+| **[Limitless](https://limitless.ai/)** | $350 Million (Last Val.) | $19 - $49/mo | 20 hours/mo | Successor to Rewind; acquired by Meta in late 2025. |
+| **[Mem.ai](https://mem.ai/)** | $110 Million (Valuation) | $12/mo | 25 notes/mo | Self-organizing workspace that uses AI to connect notes and tasks. |
+| **[Fabric](https://fabric.so/)** | ~$13.5 Million (Est. Val.) | $6 - $16/mo | 50MB file limit | AI-powered personal memory and knowledge management tool. |
+| **[Rewind AI](https://rewind.ai/)** | (Successor: Limitless) | $5 - $49/mo | 5,000 tokens/day | Original app sunset; now an AI tools platform at this domain. |
+| **[Reflect](https://reflect.app/)** | ~$1 Million (Est. Val.) | $10 - $15/mo | 14-day free trial | Minimalist note-taking with end-to-end encryption and AI help. |
 
 **Other notable mentions**: Various note-taking tools with AI memory layers.
 
