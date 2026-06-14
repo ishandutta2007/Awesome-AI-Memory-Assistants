@@ -1,16 +1,16 @@
 <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="200" rx="10" fill="url(#paint0_linear)"/>
   <defs>
     <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
       <stop stop-color="#2193b0"/>
       <stop offset="1" stop-color="#6dd5ed"/>
     </linearGradient>
   </defs>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="white" style="font-family: Arial, sans-serif; font-size: 40px; font-weight: bold; letter-spacing: 2px;">
+  <rect width="800" height="200" rx="10" fill="url(#paint0_linear)"/>
+  <text x="400" y="90" dominant-baseline="middle" text-anchor="middle" fill="white" style="font-family: sans-serif; font-size: 40px; font-weight: bold; letter-spacing: 2px;">
     AI MEMORY ASSISTANTS
   </text>
-  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="white" style="font-family: Arial, sans-serif; font-size: 18px; font-style: italic; opacity: 0.9;">
-    The Ultimate Ecosystem for Personal Recall & Second Brains
+  <text x="400" y="130" dominant-baseline="middle" text-anchor="middle" fill="white" style="font-family: sans-serif; font-size: 18px; font-style: italic; opacity: 0.9;">
+    The Ultimate Ecosystem for Personal Recall &amp; Second Brains
   </text>
   <circle cx="50" cy="50" r="20" fill="white" fill-opacity="0.1" />
   <circle cx="750" cy="150" r="40" fill="white" fill-opacity="0.1" />
