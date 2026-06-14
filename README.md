@@ -23,24 +23,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Memory Assistants)
 
-- **[Rewind AI](https://rewind.ai/)**  
-  Pioneering AI memory assistant that records everything on your screen and lets you search your digital life with natural language.
-
-- **[Limitless (formerly Rewind Pendant)](https://limitless.ai/)**  
-  Wearable + desktop AI memory system that captures conversations and provides intelligent recall and insights.
-
-- **[Otter.ai](https://otter.ai/)**  
-  Leading meeting transcription and memory assistant with strong search, summarization, and collaboration features.
-
-- **[Fabric](https://fabric.so/)**  
-  AI-powered personal memory and knowledge management tool with seamless capture and retrieval.
-
-- **[Microsoft Recall](https://microsoft.com/recall)**  
-  Windows-integrated AI memory feature that snapshots screen activity for natural language search and recall.
+| Product | Pricing | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- |
+| **[Rewind AI](https://rewind.ai/)** | $5 - $49/mo | 5,000 tokens/day | Personal memory assistant (now an AI tools platform). Original app sunset in 2025. |
+| **[Limitless](https://limitless.ai/)** | $19 - $49/mo | 20 hours/mo | Successor to Rewind; captures meetings and conversations with AI recall. |
+| **[Otter.ai](https://otter.ai/)** | $16.99 - $30/mo | 300 min/mo | Leading meeting transcription and memory assistant with strong search. |
+| **[Fabric](https://fabric.so/)** | $6 - $16/mo | 50MB file limit | AI-powered personal memory and knowledge management tool. |
+| **[Microsoft Recall](https://microsoft.com/recall)** | Included with Hardware | Free (Requires Copilot+ PC) | Windows-integrated "photographic memory" of your PC activity. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Mem.ai, Reflect, and various note-taking tools with AI memory layers.
+| Product | Pricing | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- |
+| **[Mem.ai](https://mem.ai/)** | $12/mo | 25 notes/mo | Self-organizing workspace that uses AI to connect notes and tasks. |
+| **[Reflect](https://reflect.app/)** | $10 - $15/mo | 14-day free trial | Minimalist note-taking with end-to-end encryption and AI help. |
+
+**Other notable mentions**: Various note-taking tools with AI memory layers.
 
 ## Open-Source GitHub Projects
 
