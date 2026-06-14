@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧠 Awesome AI Memory Assistants 🚀
- <img src="assets/banner.svg" alt="ProductHunt Hunter Banner" width="800">
+ <img src="assets/banner.svg" alt="AI Memory Assistants Banner" width="800">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
