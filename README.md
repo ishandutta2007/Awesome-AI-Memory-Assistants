@@ -11,7 +11,7 @@
 
 ---
 
-![Banner](banner.svg)
+![Banner](assets/banner.svg)
 
 ---
 
