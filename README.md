@@ -81,7 +81,7 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 - **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
   Advanced memory management for infinite context. 🤖
 
-- **[screenpipe](https://github.com/mediar-ai/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=social&color=white)](https://github.com/mediar-ai/screenpipe/stargazers)  
+- **[screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers)  
   Continuous screen/audio capture for local AI search. 📺
 
 - **[Anytype](https://github.com/anyproto/anytype-ts)** [![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)  
@@ -105,7 +105,7 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 ## 🛠️ Frameworks & Stacks
 
 Combine these tools to build your ultimate private AI memory:
-1.  **Capture**: [screenpipe](https://github.com/mediar-ai/screenpipe) or [OpenRecall](https://github.com/openrecall/openrecall)
+1.  **Capture**: [screenpipe](https://github.com/screenpipe/screenpipe) or [OpenRecall](https://github.com/openrecall/openrecall)
 2.  **Model**: [Ollama](https://ollama.com/) (Local LLMs)
 3.  **Memory Layer**: [Mem0](https://github.com/mem0ai/mem0) or [Zep](https://github.com/getzep/zep)
 4.  **Agent Orchestration**: [LangGraph](https://github.com/langchain-ai/langgraph) or [Letta](https://github.com/letta-ai/letta)
