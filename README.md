@@ -53,6 +53,7 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 | **[Fabric](https://fabric.so/)** | ~$13.5 Million (Est.) | $6 - $16/mo | 50MB file limit | AI-powered personal memory & knowledge tool. 🏗️ |
 | **[Rewind AI](https://rewind.ai/)** | (Successor: Limitless) | $5 - $49/mo | 5,000 tokens/day | Original app sunset; now an AI tools platform. ⏪ |
 | **[Reflect](https://reflect.app/)** | ~$1 Million (Est.) | $10 - $15/mo | 14-day trial | Minimalist note-taking with E2EE & AI help. 🪞 |
+| **[Screenpipe](https://screenpipe.com/)** | Not disclosed | Free and paid ([plans](https://screenpipe.com/pricing)) | [Current limits](https://screenpipe.com/pricing) | Searchable local screen and audio history for recall, meeting summaries, and AI context via a local API and [MCP](https://github.com/screenpipe/screenpipe/blob/main/packages/screenpipe-mcp/README.md). 📺 Source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md); configured cloud features and connected AI clients may transmit context off-device. |
 
 ---
 
@@ -80,9 +81,6 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 
 - **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
   Advanced memory management for infinite context. 🤖
-
-- **[screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers)  
-  Continuous screen/audio capture for local AI search. 📺
 
 - **[Anytype](https://github.com/anyproto/anytype-ts)** [![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)  
   Local-first personal knowledge and memory system. 🧱
