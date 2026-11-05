@@ -105,6 +105,9 @@ The personal AI assistant and digital memory sector intersects knowledge managem
 - **[OpenRecall](https://github.com/openrecall/openrecall)** [![GitHub stars](https://img.shields.io/github/stars/openrecall/openrecall?style=social&color=white)](https://github.com/openrecall/openrecall/stargazers)  
   Open-source alternative to Microsoft Recall. 📸
 
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** [![GitHub stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social&color=white)](https://github.com/louis030195/hyperconsciousness/stargazers)
+  Developer-alpha Rust knowledge store with encrypted, append-only records and scoped, expiring MCP access for agent memory. 🧠
+
 ### 🔍 Community Stacks & Search
 
 - **[Rewind Open Alternatives](https://github.com/search?q=rewind+ai+open+source)** — Community self-hosted memory capture.
