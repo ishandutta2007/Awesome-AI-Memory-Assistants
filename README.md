@@ -50,13 +50,18 @@ The personal AI assistant and digital memory sector intersects knowledge managem
 
 | Product | Company Size (Valuation) | Pricing | Free Tier Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Microsoft Recall](https://microsoft.com/recall)** | ~$2.9 Trillion (Mkt Cap) | Included with HW | Free (Copilot+ PC) | Windows-integrated "photographic memory" of your PC. 🖥️ |
-| **[Otter.ai](https://otter.ai/)** | ~$1 Billion+ (Est.) | $16.99 - $30/mo | 300 min/mo | Leading meeting transcription & memory assistant. 🎙️ |
+| **[Fabric](https://fabric.so/)** | ~$13.5 Million (Est.) | $6 - $16/mo | 50MB file limit | AI-powered personal memory & knowledge tool. 🏗️ |
+| **[Fathom](https://fathom.video/)** | ~$73 Million (Valuation) | $19 - $34/mo | 5 AI summaries/mo (unlimited raw recording) | Free-tier focused AI meeting recorder & transcription assistant. 🎧 |
+| **[Fireflies.ai](https://fireflies.ai/)** | ~$1 Billion (Valuation) | $10 - $39/mo | 400 min storage / 3 manual transcripts | Enterprise meeting intelligence and conversational recall. 🐝 |
+| **[Granola](https://granola.ai/)** | $1.5 Billion (Valuation) | $14 - $35/mo | Basic meeting notes (30-day history) | Bot-free AI notepad capturing audio and personal meeting memory locally. 🥣 |
 | **[Limitless](https://limitless.ai/)** | $350 Million (Last Val.) | $19 - $49/mo | 20 hours/mo | Successor to Rewind; acquired by Meta in 2025. ♾️ |
 | **[Mem.ai](https://mem.ai/)** | $110 Million (Valuation) | $12/mo | 25 notes/mo | Self-organizing workspace connecting notes/tasks. 🧠 |
-| **[Fabric](https://fabric.so/)** | ~$13.5 Million (Est.) | $6 - $16/mo | 50MB file limit | AI-powered personal memory & knowledge tool. 🏗️ |
-| **[Rewind AI](https://rewind.ai/)** | (Successor: Limitless) | $5 - $49/mo | 5,000 tokens/day | Original app sunset; now an AI tools platform. ⏪ |
+| **[Microsoft Recall](https://microsoft.com/recall)** | ~$2.9 Trillion (Mkt Cap) | Included with HW | Free (Copilot+ PC) | Windows-integrated "photographic memory" of your PC. 🖥️ |
+| **[Notion AI](https://notion.so/)** | ~$10 Billion (Valuation) | $10 - $20/mo add-on | Limited trial | Connected workspace memory with conversational Q&A over docs and notes. 📚 |
+| **[Otter.ai](https://otter.ai/)** | ~$1 Billion+ (Est.) | $16.99 - $30/mo | 300 min/mo | Leading meeting transcription & memory assistant. 🎙️ |
 | **[Reflect](https://reflect.app/)** | ~$1 Million (Est.) | $10 - $15/mo | 14-day trial | Minimalist note-taking with E2EE & AI help. 🪞 |
+| **[Rewind AI](https://rewind.ai/)** | (Successor: Limitless) | $5 - $49/mo | 5,000 tokens/day | Original app sunset; now an AI tools platform. ⏪ |
+| **[Superwhisper](https://superwhisper.com/)** | Bootstrapped / Solo | $8.49/mo or $250 lifetime | Unlimited local dictation | On-device voice-to-text dictation and conversational audio memory. 🎙️ |
 
 ---
 
