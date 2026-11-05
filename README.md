@@ -8,7 +8,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Assistants?style=social&color=white)](https://github.com/ishandutta2007/Awesome-AI-Memory-Assistants/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Assistants?style=social&color=white)](https://github.com/ishandutta2007/Awesome-AI-Memory-Assistants/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated ecosystem of SaaS products and Open-Source projects building the future of Personal Memory & AI Recall.**
@@ -69,43 +69,43 @@ The personal AI assistant and digital memory sector intersects knowledge managem
 
 ### 🚀 Top AI Memory Assistant & Infrastructure
 
-- **[OpenWebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
+- **[OpenWebUI](https://github.com/open-webui/open-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
   Local LLM interface with strong personal memory support. 🌐
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   Open-source Notion alternative with AI memory extensions. 📝
 
-- **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
+- **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub_Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
   Production memory layer for long-term AI recall. 🧠
 
-- **[Logseq](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
+- **[Logseq](https://github.com/logseq/logseq)** [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
   Privacy-first outliner with AI memory plugin support. 🪵
 
-- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** [![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)  
+- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** [![GitHub_Stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)  
   Framework for building production-grade memory agents. 🏗️
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   Stateful multi-agent framework for persistent assistants. 🕸️
 
-- **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
+- **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub_Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
   Advanced memory management for infinite context. 🤖
 
-- **[screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers)  
+- **[screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub_Stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers)  
   Continuous screen/audio capture for local AI search. 📺
 
-- **[Anytype](https://github.com/anyproto/anytype-ts)** [![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)  
+- **[Anytype](https://github.com/anyproto/anytype-ts)** [![GitHub_Stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)  
   Local-first personal knowledge and memory system. 🧱
 
-- **[Zep](https://github.com/getzep/zep)** [![GitHub stars](https://img.shields.io/github/stars/getzep/zep?style=social&color=white)](https://github.com/getzep/zep/stargazers)  
+- **[Zep](https://github.com/getzep/zep)** [![GitHub_Stars](https://img.shields.io/github/stars/getzep/zep?style=social&color=white)](https://github.com/getzep/zep/stargazers)  
   Long-term memory store for conversational AI. ⚡
 
-- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** [![GitHub stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social&color=white)](https://github.com/TerminallyLazy/Tree-Ring-Memory/stargazers)
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** [![GitHub_Stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social&color=white)](https://github.com/TerminallyLazy/Tree-Ring-Memory/stargazers)
   Framework-agnostic Rust CLI/TUI for local agent-memory lifecycle, SQLite/FTS recall, redaction, deletion, consolidation, and audits. 🌳
 
-- **[OpenRecall](https://github.com/openrecall/openrecall)** [![GitHub stars](https://img.shields.io/github/stars/openrecall/openrecall?style=social&color=white)](https://github.com/openrecall/openrecall/stargazers)  
+- **[OpenRecall](https://github.com/openrecall/openrecall)** [![GitHub_Stars](https://img.shields.io/github/stars/openrecall/openrecall?style=social&color=white)](https://github.com/openrecall/openrecall/stargazers)  
   Open-source alternative to Microsoft Recall. 📸
 
-- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** [![GitHub stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social&color=white)](https://github.com/louis030195/hyperconsciousness/stargazers)
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** [![GitHub_Stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social&color=white)](https://github.com/louis030195/hyperconsciousness/stargazers)
   Developer-alpha Rust knowledge store with encrypted, append-only records and scoped, expiring MCP access for agent memory. 🧠
 
 ### 🔍 Community Stacks & Search
