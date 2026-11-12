@@ -75,6 +75,9 @@ The personal AI assistant and digital memory sector intersects knowledge managem
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   Open-source Notion alternative with AI memory extensions. 📝
 
+- **[Cloud Alter Ego](https://github.com/SebastiaanBoon/cloud-alter-ego)** [![GitHub_Stars](https://img.shields.io/github/stars/SebastiaanBoon/cloud-alter-ego?style=social&color=white)](https://github.com/SebastiaanBoon/cloud-alter-ego/stargazers)  
+  MIT template for a remote MCP connector that gives every AI chat your rules and context as Markdown files in your own cloud storage. 🗂️
+
 - **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub_Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
   Production memory layer for long-term AI recall. 🧠
 
